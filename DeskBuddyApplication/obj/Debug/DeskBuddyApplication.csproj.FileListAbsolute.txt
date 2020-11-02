@@ -1,0 +1,24 @@
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\Database1.mdf
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\Database1_log.ldf
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\DeskBuddyApplication.exe.config
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\DeskBuddyApplication.exe
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\DeskBuddyApplication.pdb
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.DeskBuddyForm.resources
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.Properties.Resources.resources
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.exe
+C:\Users\Daniel\source\repos\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.pdb
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\Database1.mdf
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\Database1_log.ldf
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\DeskBuddyApplication.exe.config
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\DeskBuddyApplication.exe
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\bin\Debug\DeskBuddyApplication.pdb
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.DeskBuddyForm.resources
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.Properties.Resources.resources
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.exe
+C:\Users\Daniel\Desktop\OneDrive\Kea ITT\Afsluttende projekt\Pc software kode\DeskBuddyApplication\DeskBuddyApplication\obj\Debug\DeskBuddyApplication.pdb
